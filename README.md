@@ -1,2 +1,2 @@
 # iInterviewPreparation
-     Java solution worked on cracking the coding interview
+     Java solution for cracking the coding interview
